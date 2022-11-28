@@ -1,7 +1,7 @@
 - Hello! My name is Carlos Eduardo Afonso 🤙
 - I'm a fullstack developer and I'm on a mission to constantly learn new things. 🕵️
-- Here you check mt website: [here](https://afonsocadu.github.io/personalwebsite/ "here").😸 
-- Here can reach me on linkedin: [here](https://www.linkedin.com/in/carloseduardoafonso/ "here").😻
+- You you check my website [here](https://afonsocadu.github.io/personalwebsite/ "here").😸 
+- You can reach me on linkedin [here](https://www.linkedin.com/in/carloseduardoafonso/ "here").😻
 
 <div align="center">
   <a href="https://github.com/afonsocadu">
