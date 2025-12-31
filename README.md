@@ -1,6 +1,7 @@
 - Hello! My name is Carlos Eduardo Afonso 
 - You you check my website [here](https://afonsocadu.github.io/webpage// "here").
 - You can reach me on linkedin [here](https://www.linkedin.com/in/carloseduardoafonso/ "here").
+- Youtube Channel [here]([https://afonsocadu.github.io/webpage/](https://www.youtube.com/@CarlosAfonso-dev)/ "here").
 
 <div align="center">
   <a href="https://github.com/afonsocadu">
